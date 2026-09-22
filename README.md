@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-- 版本：`1.02`（`versionCode 2`）
-- 标签：[`v1.02`](https://github.com/xmz28/mirror-nav-se-apk/releases/tag/v1.02)
-- APK：[下载最新 Release APK](https://github.com/xmz28/mirror-nav-se-apk/releases/download/v1.02/tou-ping-nav-se-release-v1.02.apk)
+- 版本：`1.03`（`versionCode 3`）
+- 标签：[`v1.03`](https://github.com/xmz28/mirror-nav-se-apk/releases/tag/v1.03)
+- APK：[下载最新 Release APK](https://github.com/xmz28/mirror-nav-se-apk/releases/download/v1.03/tou-ping-nav-se-release-v1.03.apk)
 - 包名：`com.example.bleconnectse`
 
 ## 功能
